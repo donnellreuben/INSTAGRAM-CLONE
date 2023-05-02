@@ -1,13 +1,15 @@
+<% if user_signed_in? %>
+  <%= link_to "Log out", destroy_user_session_path, data: { "turbo-method": "delete" } %>
+<% end %>
 <div class="vh-100 d-flex justify-content-center align-items-center">
   <div>
     <div class="card p-4 mb-3" style="width: 28rem;">
       <div class="card-body">
-      
+
 <!-- Instagram Logo (style in login.scss) -->
         <div class="instagram-logo-link"></div>
         <br>
-
-
+      
 <!-- Devise Form -->
         <div class="d-flex justify-content-center">
           <%= form_for(resource, as: resource_name, url: session_path(resource_name), html: { class: "w-100" }) do |f| %>
@@ -34,14 +36,12 @@
 
         <hr>
 
-
 <!-- Forgot your Password -->
         <div class="d-flex justify-content-center">
           <%= link_to "Forgot your password?", new_password_path(resource_name), class: "dark-link" %>
         </div>
       </div>
     </div>
-
 
     <div class="card py-2" style="width: 28rem;">
       <div class="card-body">
