@@ -7,6 +7,7 @@ gem "bootstrap"
 gem "bootsnap", require: false
 gem "cssbundling-rails"
 gem "devise"
+gem "foreman"
 gem "jbuilder"
 gem "jsbundling-rails"
 gem "pg", "~> 1.1"
