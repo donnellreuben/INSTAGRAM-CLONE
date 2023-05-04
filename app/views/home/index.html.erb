@@ -1,3 +1,4 @@
+<!-- PHOTO CROPPER -->
 <div class="row">
   <div class="col">
     <div class="p-4 px-5">
@@ -20,12 +21,9 @@
     </div>
   </div>
   <div class="col-7">
-    2 of 3 (wider)
-     <!-- Can see pics
-    <%= Post.find_each do |post|%>
-    <%= image_tag post.photo %>
-    <% end %>
-  -->  
+
+    <%= image_tag Post.first.photo.variant(resize_to_limit: [1000, 1000]), data: { controller: "photo-cropper"} %>
+
   </div>
   <div class="col-3">
     3 of 3
