@@ -102,6 +102,9 @@ Others - Check out Gemfile
 ## Author
 Donnell Reuben
 
+## Acknowledgments
+
+* Icon and Flaticons from flaticon.com
 
 
 ## Login 
