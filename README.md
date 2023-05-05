@@ -31,6 +31,7 @@ brew install vips
 ``
 bundle exec rspec
 ``
+
 ``
 bundle install
 ``
