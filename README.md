@@ -2,7 +2,7 @@
 ##### by Donnell Reuben
 
 ## Getting Started
-``Ruby
+``
 brew install node
 ``
 
