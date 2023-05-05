@@ -106,8 +106,8 @@ Donnell Reuben
 
 ## Side Note For Author:
 
-####### Sidebar
+###### Sidebar
 - app/layouts/_nav_sidebar.html.erb
 
-####### Post Model
+###### Post Model
 - app/layouts/_create_post_model.html.erb
