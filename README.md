@@ -36,36 +36,69 @@ bundle exec rspec
 bundle install
 ``
 
+#### Ruby Version
+The version of Ruby used in this project is 3.1.3
+
+If you have a different version just navigate to 
+``
+.ruby-version
+``
+
+and
+``
+Gemfile
+``
+
+and add/replace/edit your ruby version with 3.1.3
+
+
+## Built With
+[Rails]
+[Bootsrap](https://getbootstrap.com/) - Used for sidebar and styling of multiple elements
+[Devise] - User Authen
+[Image Processing] - Active Storage
+[Yarn] - Package manager
+[Others] - Check out Gemfile
+
 ## Image Processing, Active Storage 
 https://github.com/janko/image_processing
 
 # Steps I took to making this project
-Started with a rails app, installed normal gems
-Did the FAVICON 🙌🏾
-Homepage
-Login Forms and styling them
-Register Forms and styling them
-Registering and Logging in with Username
-Separate page for Login
-Post Model
-Sidebar and styling it
-Styling Post Model (Create)
-File Input (used Stimulus)
-I need to have the backend register the post
-Want to crop (used cropperjs)
-Moved Cropping to the edit page 😅 (probably should've done this already)
-Cropping pictures to function on backend
-Filterss! (used Pixel JS)
-Need to apply filter to photos 
-Saving and applying filters
-Publish the photo 
-Backend Models
-Homepage again
+- Started with a rails app, installed normal gems
+- Did the FAVICON 🙌🏾
+- Homepage
+- Login Forms and styling them
+- Register Forms and styling them
+- Registering and Logging in with Username
+- Separate page for Login
+- Post Model
+- Sidebar and styling it
+- Styling Post Model (Create)
+- File Input (used Stimulus)
+- I need to have the backend register the post
+- Want to crop (used cropperjs)
+- Moved Cropping to the edit page 😅 (probably should've done this already)
+- Cropping pictures to function on backend
+- Filterss! (used Pixel JS)
+- Need to apply filter to photos 
+- Saving and applying filters
+- Publish the photo 
+- Backend Models
+- Homepage again
 
 
-### In case I forget
-#### Sidebar
+
+## Authors
+Donnell Reuben
+
+
+
+
+
+## Side Note For Author:
+
+####### Sidebar
 - app/layouts/_nav_sidebar.html.erb
 
-#### Post Model
+####### Post Model
 - app/layouts/_create_post_model.html.erb
