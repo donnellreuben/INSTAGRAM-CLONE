@@ -89,7 +89,7 @@ Others - Check out Gemfile
 - Styling Post Model (Create)
 - File Input (used Stimulus)
 - I need to have the backend register the post
-- Want to crop (used cropperjs)
+- Want to crop used [CropperJs](https://fengyuanchen.github.io/cropperjs/) - very cool
 - Moved Cropping to the edit page 😅 (probably should've done this already)
 - Cropping pictures to function on backend
 - Filterss! used [Pixel JS](https://silvia-odwyer.github.io/pixels.js/) - very cool
