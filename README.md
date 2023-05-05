@@ -114,6 +114,8 @@ Donnell Reuben
 ## Create Post
 <img width="1728" alt="Screenshot 2023-05-05 at 12 55 23 PM" src="https://user-images.githubusercontent.com/117698398/236533002-e94eccb6-11b5-4ad5-adf2-8137441a47e2.png">
 
+(side note: 3 0f 3 has been removed)
+
 
 ### Side Notes:
 
