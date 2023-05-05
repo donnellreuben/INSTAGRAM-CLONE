@@ -1,6 +1,8 @@
 # INSTAGRAM CLONE 
 
-<img width="150" height="150" align-items:"center" alt="Insta-Logo" src="https://user-images.githubusercontent.com/117698398/236532233-ee770a4e-3f8e-48eb-9493-945d384bb2c1.jpg">
+<div align="center">
+<img width="150" height="150" alt="Insta-Logo" src="https://user-images.githubusercontent.com/117698398/236532233-ee770a4e-3f8e-48eb-9493-945d384bb2c1.jpg">
+</div>
 
 A replica of Instagram that allows users to sign up with a username, login with a username. Users can then post a photo and go through
 different models of editing the photo, such as cropping, adding filters, and typing a description. Once the photo posts everyone who is
