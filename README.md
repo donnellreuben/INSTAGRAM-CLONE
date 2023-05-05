@@ -111,9 +111,6 @@ Donnell Reuben
 ## Sign Up 
 <img width="1728" alt="Screenshot 2023-05-05 at 12 55 32 PM" src="https://user-images.githubusercontent.com/117698398/236532792-18668f3b-af70-4904-a31d-1f1c64ad3922.png">
 
-## Posts
-<img width="1728" alt="Screenshot 2023-05-05 at 12 55 15 PM" src="https://user-images.githubusercontent.com/117698398/236532937-8df662c5-d68e-4759-9e0d-aee1c5bc204c.png">
-
 ## Create Post
 <img width="1728" alt="Screenshot 2023-05-05 at 12 55 23 PM" src="https://user-images.githubusercontent.com/117698398/236533002-e94eccb6-11b5-4ad5-adf2-8137441a47e2.png">
 
