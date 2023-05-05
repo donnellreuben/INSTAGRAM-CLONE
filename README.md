@@ -55,10 +55,15 @@ and add/replace/edit your ruby version with 3.1.3
 
 ## Built With
 [Rails]
+
 [Bootsrap](https://getbootstrap.com/) - Used for sidebar and styling of multiple elements
+
 [Devise] - User Authen
+
 [Image Processing] - Active Storage
+
 [Yarn] - Package manager
+
 [Others] - Check out Gemfile
 
 ## Image Processing, Active Storage 
