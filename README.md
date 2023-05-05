@@ -100,8 +100,7 @@ Others - Check out Gemfile
 ## Author
 Donnell Reuben
 
-
-
+![instagram-icon](https://user-images.githubusercontent.com/117698398/236532233-ee770a4e-3f8e-48eb-9493-945d384bb2c1.jpg)
 
 
 ### Side Note For Author:
