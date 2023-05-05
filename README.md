@@ -103,7 +103,6 @@ Others - Check out Gemfile
 Donnell Reuben
 
 ## Acknowledgments
-
 * Icon and Flaticons from flaticon.com
 
 
