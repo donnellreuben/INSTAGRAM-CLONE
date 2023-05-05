@@ -1,5 +1,7 @@
 # INSTAGRAM CLONE 
 
+<img width="150" height="150" alt="Insta-Logo" src="https://user-images.githubusercontent.com/117698398/236532233-ee770a4e-3f8e-48eb-9493-945d384bb2c1.jpg">
+
 A replica of Instagram that allows users to sign up with a username, login with a username. Users can then post a photo and go through
 different models of editing the photo, such as cropping, adding filters, and typing a description. Once the photo posts everyone who is
 logged in can see the post and the user who posted it.
@@ -100,7 +102,7 @@ Others - Check out Gemfile
 ## Author
 Donnell Reuben
 
-<img width="250" height="250" alt="Insta-Logo" src="https://user-images.githubusercontent.com/117698398/236532233-ee770a4e-3f8e-48eb-9493-945d384bb2c1.jpg">
+
 
 ## Login 
 <img width="1728" alt="Screenshot 2023-05-05 at 12 54 44 PM" src="https://user-images.githubusercontent.com/117698398/236533097-a88d8749-ac2d-4b0d-af50-a1b950850435.png">
