@@ -97,14 +97,11 @@ Others - Check out Gemfile
 - Backend Models
 - Homepage again
 
-
-
-## Author
-Donnell Reuben
-
 ## Acknowledgments
 * Icon and Flaticons from flaticon.com
 
+## Author
+Donnell Reuben
 
 ## Login 
 <img width="1728" alt="Screenshot 2023-05-05 at 12 54 44 PM" src="https://user-images.githubusercontent.com/117698398/236533097-a88d8749-ac2d-4b0d-af50-a1b950850435.png">
