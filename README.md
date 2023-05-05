@@ -1,5 +1,9 @@
 # INSTAGRAM CLONE
 ##### by Donnell Reuben
+A replica of Instagram that allows users to sign up with a username, login with a username. Users can then post a photo and go through
+different models of editing the photo, such as cropping, adding filters, and typing a description. Once the photo posts everyone who is
+logged in can see the post and the user who posted it.
+
 
 ## Getting Started
 
