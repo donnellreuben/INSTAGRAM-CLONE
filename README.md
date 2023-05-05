@@ -100,7 +100,7 @@ Others - Check out Gemfile
 ## Author
 Donnell Reuben
 
-![instagram-icon](https://user-images.githubusercontent.com/117698398/236532233-ee770a4e-3f8e-48eb-9493-945d384bb2c1.jpg)
+<img width="250" height="250" alt="Insta-Logo" src="https://user-images.githubusercontent.com/117698398/236532233-ee770a4e-3f8e-48eb-9493-945d384bb2c1.jpg">
 
 ## Login 
 <img width="1728" alt="Screenshot 2023-05-05 at 12 54 44 PM" src="https://user-images.githubusercontent.com/117698398/236533097-a88d8749-ac2d-4b0d-af50-a1b950850435.png">
