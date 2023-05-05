@@ -63,6 +63,7 @@ and add/replace/edit your ruby version with 3.1.3
 [Devise](https://medium.com/@byron.skoutaris/how-to-set-up-devise-gem-a8610be46d83) - User Authen
 
 [Image Processing](https://api.rubyonrails.org/v6.0.2.1/classes/ActiveStorage/Variant.html) - Active Storage
+[Another Useful Link](https://github.com/janko/image_processing)
 
 [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) - Package manager
 
