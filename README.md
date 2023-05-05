@@ -17,15 +17,26 @@ brew install node
 npm install --global yarn
 ``
 
+#### Install Cropper Js
+``
+yarn add cropper js
+``
 
-#### yarn add cropper js
-#### rew install vips
+#### Install Vips
+``
+brew install vips
+``
+
+#### Bundle Install
+``
+bundle exec rspec
+``
+``
+bundle install
+``
 
 ## Image Processing, Active Storage 
 https://github.com/janko/image_processing
-
-## Need to run this
-bundle exec rspec
 
 # Steps I took to making this project
 Started with a rails app, installed normal gems
