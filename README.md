@@ -72,7 +72,7 @@ and add/replace/edit your ruby version with 3.1.3
 Others - Check out Gemfile
 
 
-# Steps I took to making this project
+## Steps I took to making this project
 - Started with a rails app, installed normal gems
 - Did the FAVICON 🙌🏾
 - Homepage
