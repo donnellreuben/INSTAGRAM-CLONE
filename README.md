@@ -54,17 +54,21 @@ and add/replace/edit your ruby version with 3.1.3
 
 
 ## Built With
-[Rails]
+[Rails](https://rubyonrails.org/) - Backend
+
+[PostgresQl](https://www.postgresql.org/download/) - Database
 
 [Bootsrap](https://getbootstrap.com/) - Used for sidebar and styling of multiple elements
 
-[Devise] - User Authen
+[Devise](https://medium.com/@byron.skoutaris/how-to-set-up-devise-gem-a8610be46d83) - User Authen
 
-[Image Processing] - Active Storage
+[Image Processing](https://api.rubyonrails.org/v6.0.2.1/classes/ActiveStorage/Variant.html) - Active Storage
 
-[Yarn] - Package manager
+[Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) - Package manager
 
-[Others] - Check out Gemfile
+[Enums](https://blog.saeloun.com/2022/01/05/how-to-use-enums-in-rails/) - Managing different modal posts
+
+Others - Check out Gemfile
 
 ## Image Processing, Active Storage 
 https://github.com/janko/image_processing
