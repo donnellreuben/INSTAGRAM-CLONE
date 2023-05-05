@@ -1,8 +1,10 @@
 # INSTAGRAM CLONE
 ##### by Donnell Reuben
 
-## I Used Bootstrap
-https://getbootstrap.com/docs/5.3/forms/form-control/
+## Getting Started
+``Ruby
+brew install node
+``
 
 ## Do all this first
 #### Install Node.js
