@@ -2,13 +2,18 @@
 ##### by Donnell Reuben
 
 ## Getting Started
+
+#### Install NodeJs
 ``
 brew install node
 ``
 
-## Do all this first
-#### Install Node.js
 #### Install Yarn
+``
+npm install --global yarn
+``
+
+
 #### yarn add cropper js
 #### rew install vips
 
