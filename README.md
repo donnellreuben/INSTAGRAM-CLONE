@@ -92,7 +92,7 @@ Others - Check out Gemfile
 - Want to crop (used cropperjs)
 - Moved Cropping to the edit page 😅 (probably should've done this already)
 - Cropping pictures to function on backend
-- Filterss! (used Pixel JS)
+- Filterss! used [Pixel JS](https://silvia-odwyer.github.io/pixels.js/) - very cool
 - Need to apply filter to photos 
 - Saving and applying filters
 - Publish the photo 
