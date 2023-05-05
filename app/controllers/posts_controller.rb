@@ -1,16 +1,19 @@
 class PostsController < ApplicationController
   before_action :authenticate_user!
 
+# EDIT
   def edit
     @post = Post.find(params[:id])
     render @post.status
   end
 
+# CREATE
   def create
     @post = current_user.posts.create(post_params)
     redirect_to edit_post_path(@post)
   end
 
+# UPDATE
   def update
     @post = Post.find(params[:id])
     @post.update(post_params)
