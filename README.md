@@ -36,7 +36,8 @@ bundle exec rspec
 bundle install
 ``
 
-#### Ruby Version
+
+## Ruby Version
 The version of Ruby used in this project is 3.1.3
 
 If you have a different version just navigate to 
