@@ -112,9 +112,9 @@ Donnell Reuben
 <img width="1728" alt="Screenshot 2023-05-05 at 12 55 32 PM" src="https://user-images.githubusercontent.com/117698398/236532792-18668f3b-af70-4904-a31d-1f1c64ad3922.png">
 
 ## Create Post
-<img width="1728" alt="Screenshot 2023-05-05 at 12 55 23 PM" src="https://user-images.githubusercontent.com/117698398/236533002-e94eccb6-11b5-4ad5-adf2-8137441a47e2.png">
+<img width="1728" alt="Screenshot 2023-05-05 at 1 37 03 PM" src="https://user-images.githubusercontent.com/117698398/236540902-c7650063-bf4c-42ce-ab15-53deda848695.png">
 
-(side note: 3 0f 3 has been removed)
+
 
 
 ### Side Notes:
