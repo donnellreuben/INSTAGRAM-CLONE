@@ -86,7 +86,7 @@ Others - Check out Gemfile
 - Separate page for Login
 - Post Model
 - Sidebar and styling it
-- Styling Post Model (Create)
+- Styling Post [Model](https://getbootstrap.com/docs/5.3/components/modal/) 
 - File Input (used Stimulus)
 - I need to have the backend register the post
 - Want to crop used [CropperJs](https://fengyuanchen.github.io/cropperjs/) - very cool
