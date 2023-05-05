@@ -116,11 +116,13 @@ Donnell Reuben
 <img width="1728" alt="Screenshot 2023-05-05 at 12 55 23 PM" src="https://user-images.githubusercontent.com/117698398/236533002-e94eccb6-11b5-4ad5-adf2-8137441a47e2.png">
 
 
-### Side Note For Author:
+### Side Notes:
 
 ###### Sidebar
 - app/layouts/_nav_sidebar.html.erb
 
 ###### Post Model
 - app/layouts/_create_post_model.html.erb
+[Bootsrap](https://getbootstrap.com/docs/5.3/components/modal/) - Model I used
+
 - [REAMDE Template](https://gist.githubusercontent.com/PurpleBooth/109311bb0361f32d87a2/raw/8254b53ab8dcb18afc64287aaddd9e5b6059f880/README-Template.md) - Definately continuing using this!
